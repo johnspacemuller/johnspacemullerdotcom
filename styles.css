@@ -37,8 +37,8 @@ a {
 h1 {
     font-family: Besley;
     font-size: 2rem;
-    margin-bottom: 10px;
-    font-weight: 400; /* Use Semi-Bold */
+    margin-bottom: 0px;
+    font-weight: 600; /* Use Semi-Bold */
 }
 
 h2 {
