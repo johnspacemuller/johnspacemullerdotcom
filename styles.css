@@ -1,0 +1,49 @@
+/* Basic Reset */
+* {
+    margin: 20;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202223;
+    font-family: 'Inter', sans-serif; /* Set default font */
+}
+
+.container {
+    text-align: left;
+    color: #ffffff;
+    width: 50%;
+    height: 80%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.3;
+    hyphens: none; /* Enables automatic hyphenation */
+    word-wrap: normal;
+}
+
+a {
+    color: white;      /* Sets the text color to white */
+    font-weight: 600;
+    color: #52d0a1;
+    text-decoration: none; /* Ensures the link is underlined */
+}
+
+h1 {
+    font-family: Besley;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: 400; /* Use Semi-Bold */
+}
+
+h2 {
+    font-family: Inter;
+    font-size: 1.0rem;
+    font-weight: 300; /* Use Inter Extra Light */
+    font-style: regular
+}
