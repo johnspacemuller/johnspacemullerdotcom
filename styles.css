@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #202223;
+    background-color: #03151E;
     font-family: 'Inter', sans-serif; /* Set default font */
 }
 
@@ -30,7 +30,7 @@ body {
 a {
     color: white;      /* Sets the text color to white */
     font-weight: 600;
-    color: #52d0a1;
+    color: #0FE6B4;
     text-decoration: none; /* Ensures the link is underlined */
 }
 
